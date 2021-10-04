@@ -163,18 +163,44 @@
 ],
   "users": [
   {
-    "id": 0,
-    "firstName": "Jane",
-    "lastName": "Doe",
-    "email": "jdoe@gmail.com",
-    "password": "jdoe23"
-  },
-  {
-    "id": 1,
-    "firstName": "John",
-    "lastName": "Mayer",
-    "email": "jmayer@gmail.com",
-    "password": "wonderland"
-  } 
+      "id": 0,
+      "firstName": "Judy",
+      "lastName": "Rinn",
+      "username": "jrinn",
+      "email": "jrinn@gmail.com",
+      "password": "jrinn13"
+    },
+    {
+      "id": 1,
+      "firstName": "Jack",
+      "lastName": "Muncy",
+      "username": "jrinn",
+      "email": "jmuncy@gmail.com",
+      "password": "wonderland"
+    },
+    {
+      "id": 2,
+      "firstName": "Derek",
+      "lastName": "Lister",
+      "username": "the-D-Lister",
+      "email": "dlister@yahoo.com",
+      "password": "nugget?2397"
+    },
+    {
+      "id": 3,
+      "firstName": "Paul",
+      "lastName": "Day",
+      "username": "paul_day",
+      "email": "paul_day@gmail.com",
+      "password": "b6gG@798jL_ja"
+    },
+    {
+      "id": 4,
+      "firstName": "Luke",
+      "lastName": "Zachary",
+      "username": "lzach18",
+      "email": "lzach18@gmail.com",
+      "password": "IrishFan21"
+    }
 ]
 }
